@@ -2,7 +2,11 @@
 
 A beautiful, responsive restaurant website for **Bella Vista**, an authentic Italian cuisine restaurant in the heart of the city.
 
-## 🌟 Features
+## � Live Demo
+
+Visit the live website: https://rudra-729.github.io/Bella-Vita/
+
+## �🌟 Features
 
 - **Responsive Design**: Fully responsive and mobile-friendly interface
 - **Modern UI/UX**: Clean and professional layout with smooth animations
