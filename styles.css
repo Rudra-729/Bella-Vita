@@ -370,25 +370,7 @@ menu-category {
   }
 }
 
-@media (max-width: 280px) {
-  .hero-content h2 {
-    font-size: 2rem;
-  }
 
-  .hero-content p {
-    min-width: auto;
-    font-size: 0.9rem;
-  }
-
-  .container {
-    padding: 0 15px;
-  }
-
-  .nav-links {
-    flex-direction: column;
-    gap: 0.5rem;
-  }
-}
 
 @keyframes fadeInUp {
   from {
